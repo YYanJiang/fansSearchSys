@@ -1,0 +1,38 @@
+.Input {
+    width: 30%;
+    height: 35px;
+    margin-bottom: 12px;
+    border-radius: 7px;
+    outline: 0;
+    box-shadow: none !important;
+    padding-left: 10px;
+    padding-top: 3px;
+    font-family: 'Cantata One', serif;
+    color: #a9a9a9;
+    font-size: 70%;
+    font-weight: 700;
+}
+
+.gray {
+    border: 1.5px solid #999999;
+}
+
+.red {
+    border: 1.5px solid red;
+}
+
+.signup {
+    background-color: #6384A3;
+    outline: 0;
+    box-shadow: none !important;
+    border: 1.5px solid #999999;
+    width: 90px;
+    height: 35px;
+    border-radius: 7px;
+    margin-left: 23%;
+    float: none;
+}
+
+.inputForm {
+    text-align: center;
+}

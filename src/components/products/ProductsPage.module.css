@@ -1,0 +1,31 @@
+.allProducts {
+    background-color: white;
+    height: 100vh;
+}
+
+.wrapper {
+    margin-top: 130px;
+    margin-left: 250px;
+}
+
+.productList {
+    display: flex;
+  flex-wrap: wrap;
+    /* width: 100%; */
+}
+
+.topLine {
+    font-size: 65%;
+    display: flex;
+    padding: 10px 0px 6px 18px;
+}
+
+.mechanical {
+    color: #1F4F7A;
+}
+
+button{
+    float: right;
+    background: none;
+    border: none;
+}

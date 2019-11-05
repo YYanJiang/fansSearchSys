@@ -1,0 +1,90 @@
+/* .headerContainer {
+    position: fixed;
+    min-width: auto;
+    background: linear-gradient(to right, #ffffff, 30%, #b3d1ec, #cbdff2);
+    height: 120px;
+    border-bottom: 1.5px solid #BFBFBF;
+    align-items: center;
+} */
+/* div{
+    
+} */
+
+.headerRow {
+    
+    width: 100%;
+    position: fixed;
+    background: linear-gradient(to right, #ffffff, 30%, #b3d1ec, #cbdff2);
+    height: 120px;
+    align-items: center;
+    /* display:inline-block; */
+    /* padding-top: 10px;
+    align-items: center; */
+}
+
+.logo {
+    width: 200px;
+    height: 80px;
+    margin-top:20px;
+    margin-left: -16px;
+    margin-bottom: 30px;
+    padding-left: 30px;
+    float: left;
+    /* padding-top: 15px; */
+}
+
+.searchBar{
+    margin-top:40px;
+    /* width: 100%; */
+    /* margin-right: 100px; */
+    float: none;
+}
+
+.userProfile{
+    background: none;
+    border: none;
+    float: right;
+    margin-top: -35px;
+    margin-right:10px; 
+}
+/* .svgLogo {
+    height: 55px;
+    margin-left: -16px;
+    margin-bottom: 30px;
+} */
+
+/* .column {
+    text-align: left;
+    font-family: 'Fredoka One', cursive;
+    font-size: 270%;
+    color: #1F4F7B;
+} */
+
+/* .searchInput {
+    position: relative;
+    width: 50%;
+    height: 35px;
+    border-radius: 0 7px 7px 0;
+    outline: 0;
+    box-shadow: none !important;
+    border: 1.5px solid #999999;
+    border-left: none;
+    z-index: 5;
+    padding-left: 30px;
+    padding-top: 3px;
+    font-size: 70%;
+} */
+
+/* .Button {
+    position: relative;
+    right: -1%;
+    background-color: #d9d9d9;
+    color: black;
+    outline: 0;
+    box-shadow: none !important;
+    height: 35px;
+    border-radius: 7px;
+    margin-bottom: 0.5px;
+    z-index: 10;
+} */
+

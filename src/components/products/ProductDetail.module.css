@@ -1,0 +1,155 @@
+.allProducts {
+    background-color: white;
+    height: 100vh;
+}
+
+.wrapper {
+    margin-top: 130px;
+    margin-left: 250px;
+}
+
+.productList {
+    display: flex;
+  flex-wrap: wrap;
+    /* width: 100%; */
+}
+
+.topLine {
+    font-size: 65%;
+    display: flex;
+    padding: 10px 0px 6px 18px;
+}
+
+.mechanical {
+    color: #1F4F7A;
+}
+
+
+
+.outer{
+    background-image:linear-gradient(#7bb7f8ee,white);
+    border-bottom: 1px solid rgb(172, 170, 170);  
+    display: flex; 
+}
+
+
+.logo{
+    margin-left:2%;
+    margin-top: 0em;
+    margin-right: 8%;
+}
+.input{
+    width: 50%;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    margin-right: 10%;
+    margin-left: 10px;
+    height: 50%;
+} 
+
+.outer p{
+    float: right;
+    margin-top: 3em;
+}
+
+.head {
+    float: right;
+    margin-right: 10%;
+    margin-top: 25px;
+    margin-left:10px;
+}
+
+.fan{
+    margin: 0 0 0 0;
+}
+
+.secondPart{
+    display: flex;
+}
+
+.title{
+    padding: 8px 5px 5px 10px;
+    color: rgb(35, 67, 148);
+    font-weight: 600;
+    
+}
+.title2{
+    padding: 8px 5px 5px 0px;
+    color: rgb(35, 67, 148);
+    font-weight: 600;
+}
+
+.thirdPart {
+    height: 1.6em;
+    display: flex;
+    font-size: 14px;
+}
+
+/* .thirdPart button {
+    font-size: 10px;
+    height: 98%;
+    background-color: rgb(219, 215, 215);
+} */
+
+.thirdPart a {
+    padding-right: 10px;
+    font-size: 10px;
+    height: 98%;
+    background-color: rgb(219, 215, 215);
+}
+
+.fourthPart{
+    margin-top: 8px;
+    text-align: left;
+}
+
+.container{
+    margin-left: 10px !important;
+}
+
+.table1{
+    border-bottom: 1px solid !important;
+}
+
+.table1 tr{
+    text-align: left;
+    margin: 0 0 0 0 ;
+    
+}
+.table2{
+    border-bottom: 1px solid !important;
+}
+.table2 tr{
+    text-align: left ;
+}
+
+td {
+    font-size: 13px;
+    padding: 5px 0px 5px 5px !important;
+    width: 100%;
+    white-space: nowrap;
+    border: 0px !important;
+}
+
+th {
+    font-size: 13px;
+    padding: 5px 0 5px 0 !important;
+    white-space: nowrap;
+    width: 100%;
+    border: 0px !important;
+
+}
+
+tr{
+    font-size: 14px;
+    border-top: 1px solid lightgray !important;
+}
+
+.tr1{
+    border-top: 1px solid !important;
+    border-bottom: 1px solid !important;
+}
+
+td:nth-child(odd){
+    background-color: rgb(235, 232, 232);
+  }

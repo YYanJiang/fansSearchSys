@@ -1,0 +1,42 @@
+.logoContainer {
+    margin-top: 100px;
+    margin-bottom: 20px;
+    width: 18%;
+    margin-left: 41%;
+    
+}
+
+.svgLogo {
+    height: 120px;
+    margin-left: -11px;
+    margin-bottom: 40px;
+}
+
+.column {
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+    font-size: 500%;
+    color: #1F4F7B;
+}
+
+.building {
+    margin-bottom: 45px;
+    text-align: center;
+    /* margin-top: 30px; */
+}
+
+/* .circle {
+    display: inline;
+} */
+
+.signup {
+    color: #5C5F62;
+    text-align: right;
+    margin-top: 50px;
+    margin-right: 30px;
+    font-size: 90%;
+}
+
+/* .Fragment {
+    background-color: blue;
+} */

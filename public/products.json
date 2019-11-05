@@ -1,0 +1,54 @@
+[
+    {   
+        "image": "images/emerson.png",
+        "name": "Emerson", 
+        "series": "Luray Eco Series", 
+        "code": "CF860",
+        "technical_data": {
+            "airflow": "8,500",
+            "power": "33",
+            "noise": "40",
+            "size": "60"
+        },
+        "past": "10 firm / 1492 global"
+    },
+
+    {   "image": "images/minka.png",
+        "name": "Minka", 
+        "series": "Aviation Series", 
+        "code": "F853-RW",
+        "technical_data": {
+            "airflow": "6,604",
+            "power": "25.92",
+            "noise": "36",
+            "size": "60"
+        },
+        "past": "8 firm / 1132 global"
+    },
+
+    {   "image": "images/westinghouse.png",
+        "name": "Westinghouse", 
+        "series": "Industrial Ceiling Fan", 
+        "code": "78003",
+        "technical_data": {
+            "airflow": "6,846",
+            "power": "60",
+            "noise": "48",
+            "size": "56"
+        },
+        "past": "4 firm / 838 global"
+    },
+
+    {   "image": "images/big_ass.png",
+        "name": "Big Ass", 
+        "series": "Haiku H Series", 
+        "code": "S3150-S0-BC-04-01-C-01",
+        "technical_data": {
+            "airflow": "5,467",
+            "power": "21.14",
+            "noise": "35",
+            "size": "60"
+        },
+        "past": "0 firm / 1297 global"
+    }
+]
